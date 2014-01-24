@@ -1,0 +1,18 @@
+{
+  "name": "mixins",
+  "version": "1.0.0",
+  "homepage": "https://github.com/knapsackco/mixins",
+  "authors": [
+    "Jeremy Marquis <jeremy@knapsackcreative.com>"
+  ],
+  "description": "LESS mixins for Knapsack websites.",
+  "main": "mixins.lib.less",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
